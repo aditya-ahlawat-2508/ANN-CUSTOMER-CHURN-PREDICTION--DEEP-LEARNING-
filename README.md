@@ -8,22 +8,6 @@ An enterprise-grade, end-to-end deep learning framework designed to predict bank
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Architecture & Data Flow](#architecture--data-flow)
-4. [Tech Stack](#tech-stack)
-5. [Project Structure](#project-structure)
-6. [Installation](#installation)
-7. [Configuration](#configuration)
-8. [Usage](#usage)
-9. [API Documentation](#api-documentation)
-10. [Machine Learning Pipeline](#machine-learning-pipeline)
-11. [Model Details & Trade-offs](#model-details--trade-offs)
-12. [Performance & Evaluation](#performance--evaluation)
-13. [Screenshots & Demo](#screenshots--demo)
-14. [Challenges Faced & Engineering Decisions](#challenges-faced--engineering-decisions)
-15. [Security Considerations](#security-considerations)
-16. [Deployment](#deployment)
-17. [Contributing](#contributing)
-18. [License](#license)
-19. [Author](#author)
 
 ---
 
